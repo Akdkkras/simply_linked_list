@@ -1,0 +1,4 @@
+/.idea/
+/cmake-build-debug/
+/testing_other.cpp
+/backup.cpp

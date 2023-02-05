@@ -3,5 +3,5 @@ project(simply_linked_list)
 
 set(CMAKE_CXX_STANDARD 23)
 
-add_executable(simply_linked_list main.cpp)
+add_executable(simply_linked_list main.cpp MyForwardList.h MyForwardList.cpp)
 add_executable(testing_other testing_other.cpp)
